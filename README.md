@@ -64,5 +64,4 @@ The command-line interface supports various queries and commands. For a list of 
 
 # Contributors
 
-- Muhammad Dawood Safdar (7926993)
-- Muhammad Hassan Nauman (7871016)
+- Hassan Nauman 
